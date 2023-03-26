@@ -1,0 +1,62 @@
+/* Created a class with properties for the header "LESEAN DEVONN".  */
+
+body {
+  margin: 0;
+}
+
+.h1-1{
+    background-color: black;
+    margin: 0;
+    padding:0;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 380%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: .5cm;
+    padding: 20px;
+}
+
+/* This header displays "Sign Up for New releases" with the following properties.  */
+.h1-2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+/* This div contains and styles the a links that navigate "Music, About, Sign Up".  */
+.div-1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px;
+}
+
+/* This div class sets the background color of page and aligns div-2 elements to the center.  */
+.div-2 {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+/* Image element and properties.  */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 30%;
+  }
+
+  /* This paragraph displays "Subscribe to receive exclusive content" with the following properties.  */
+  .p-1 {
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+
+
+  .form-1 {
+       background-color: black;
+}
+
+/* Changed the font of the text in the form  */
+  input {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }

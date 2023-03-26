@@ -1,0 +1,23 @@
+.hov {
+    height: 400px;
+    width: 400px;
+    background-color: black;
+}
+
+ /* add text inside of /* "addedText" * / to in order to leave comments in CSS */
+
+/* This pseudo class style changes the color of the original "hov" element when someone hovers over the element.
+When the element is in the hover  state, color will change to red.  */
+ .hov:hover {
+    background-color: red;
+}
+/* Use a . when adding a class element to the CSS page */
+/* This pseudo class ".every-even li:nth-child(even)" targets every even number in a list and colors it red. */
+.every-even li:nth-child(even) {
+    background-color: red;
+}
+/*This pseudo class".every-third li:nth-child(3n)" targets every 3rd number in a list element and colors it red. */
+.every-third li:nth-child(3n) {
+    background-color: red;
+}
+

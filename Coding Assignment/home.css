@@ -1,0 +1,76 @@
+
+/* Created a div class for the "Music, About, Sign Up" links with these properties  */
+.div-1 { 
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.p-1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    background-color: aqua;
+}
+
+/* Created another paragraph class to display "Join to recieve instant updates and exclusive content!" with these properties.  */  
+.p-2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px;
+}
+
+/* Created a paragraph class for text in the heading "The Most Talented streaming...in America," with these properties.  */
+.p-3{
+    font-size:x-large;
+    margin: 10px;
+    }
+
+
+body {
+    margin:0 ;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-color: white;    
+}
+
+/* This header displays "LESEAN DEVONN" at top of screen.  */
+h1 {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    letter-spacing: .5cm;
+    margin: 0;
+    font-size: 380%;
+    padding: 20px;
+}
+
+/* When the mouse hovers over any links, the text will turn red. */
+a:hover{ 
+    color: red;
+}
+
+
+.h3-1:before {
+    float: right;
+    display: block;
+}
+
+/* This is a class for organized list  */
+.ol-1 {
+    float: right;
+    margin-right:10px;
+}
+/* This is the image element  */
+.img-1 {
+    margin-right: 100px;
+    display: inline;
+}
+
+/* Created a background class that lines up the heading "Song List" and the ol to the right side of the image.  */
+.background-1 {
+    display:inline-block; margin-right:10px;
+}
+
+/* Created a div class that floats the organized list to the right side of image.  */
+.div-3 {
+    float: right;
+}
+
